@@ -14,4 +14,3 @@ Most client code is private. Happy to walk you through it on a call.
 ## Contact
 
 - Email: sana.mousa96@gmail.com
-- WhatsApp: [+972 59 667 4401](https://wa.me/972596674401)
